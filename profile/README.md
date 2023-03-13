@@ -10,7 +10,7 @@
 [github-shield]: https://img.shields.io/github/stars/Fux-Node/react-vscode-framework?style=social
 [github-url]: https://github.com/Fux-Node/react-vscode-framework.git
 [youtube-shield]: https://img.shields.io/youtube/channel/views/UClqkweaAkQhKTJKWDS3Tlnw?style=social
-[youtube-url]: https://www.youtube.com/UClqkweaAkQhKTJKWDS3Tlnw
+[youtube-url]: https://www.youtube.com/@fuxnode
 [discord-shield]: https://dcbadge.vercel.app/api/server/hACSzssXYy?style=social
 [discord-url]: https://discord.gg/hACSzssXYy
 
