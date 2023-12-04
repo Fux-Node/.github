@@ -1,9 +1,10 @@
 # FUXNODE
+ ![logo(2)](https://github.com/Fux-Node/.github/assets/75584628/af7f202f-a874-4292-84a1-470a554288f8)
 
-**FUXNODE** is an Indian organization that is dedicated to creating exceptional products for developers and students alike. Our goal is to provide individuals with the tools they need to build their own products with ease and comfort. **FUXNODE** is managed by a single individual, `Sailendra Dash`, who is passionate about creating innovative solutions for the tech community. With a strong focus on leveraging the latest frameworks and technologies, FUXNODE is committed to producing cutting-edge products that meet the needs of today's developers. We are always looking for opportunities to collaborate with other like-minded individuals and organizations, and we welcome sponsorships from those who share our vision. Connect with us on social media to stay up-to-date with our latest projects and initiatives. 
+FUXNODE, led by the visionary Sailendra Dash, is an Indian organization dedicated to crafting exceptional tools for developers and students. Our mission is to empower individuals in building products effortlessly. With a keen focus on innovation and utilizing the latest technologies, FUXNODE is committed to delivering cutting-edge solutions for the tech community. Join us on social media for updates on our exciting projects and initiatives. Let's innovate together!
 
 ----------------------------
-- visit : https://www.fuxnode.com
+- visit : [fuxnode.com](https://fuxnode.com)
 ## Join us
 [twitter-shield]: https://img.shields.io/twitter/follow/fuxnode?style=social
 [twitter-url]: https://twitter.com/fuxnode
@@ -12,7 +13,7 @@
 [youtube-shield]: https://img.shields.io/youtube/channel/views/UCJEEfKQmzuBFN1rAMycw-kw?style=social
 [youtube-url]: https://www.youtube.com/@fuxnode
 [discord-shield]: https://dcbadge.vercel.app/api/server/hACSzssXYy?style=social
-[discord-url]: https://discord.gg/hACSzssXYy
+[discord-url]: https://discord.gg/XXqA8j3deE
 
 - [![Youtube][youtube-shield]][youtube-url]
 - [![Discord][discord-shield]][discord-url]
